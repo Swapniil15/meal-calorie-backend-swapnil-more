@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Node js/User"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Basic_HTML"
+	}
+}

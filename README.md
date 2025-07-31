@@ -41,7 +41,7 @@ Create a `.env` file in the root directory:
 PORT=8000
 MONGO_URI=mongodb://localhost:27017/meal-calorie
 JWT_SECRET=your_jwt_secret
-USDA_API_KEY=lWTv4hcWr8P6WRiBz73LZMJARJYtKTAjWFV52uB4
+USDA_API_KEY=#############################
 ```
 
 > ⚠️ Replace `your_jwt_secret` with a strong secret key.
